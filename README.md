@@ -2,7 +2,7 @@
 
 ## 📸 Preview
 
-![Design](https://raw.githubusercontent.com/AbdullahZaheer1/ToDoApp-JavaScript/refs/heads/main/Look.png)
+![Design](https://raw.githubusercontent.com/AbdullahZaheer1/ToDoApp-JavaScript/refs/heads/main/LOOK.png)
 
 ## RUN
 
